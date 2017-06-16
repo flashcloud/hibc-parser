@@ -1,6 +1,6 @@
 {
   "name": "hibc-parser",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "a hibc-barcode parser ",
   "main": "hibc.js",
   "scripts": {
@@ -12,6 +12,10 @@
   ],
   "author": "sungole",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashcloud/hibc-parser.git"
+  },
   "dependencies": {
     "lodash-node": "^3.10.2",
     "moment": "^2.18.1"
