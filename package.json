@@ -1,0 +1,19 @@
+{
+  "name": "hibc-parser",
+  "version": "1.0.3",
+  "description": "a hibc-barcode parser ",
+  "main": "hibc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hibc",
+    "barcode"
+  ],
+  "author": "sungole",
+  "license": "MIT",
+  "dependencies": {
+    "lodash-node": "^3.10.2",
+    "moment": "^2.18.1"
+  }  
+}
