@@ -297,9 +297,6 @@ var moment = require('moment');
         return character.match(numbers);
     }
 
-    function hello(code) {
-        return { lot: code + " 123!"};
-    }
 /**
  * Created by flashcloud on 17/6/15.
  */
@@ -307,6 +304,5 @@ module.exports = {
     decode: decode,
     isMatch: isMatch,
     type: type,
-    errors: error,
-    hello: hello
+    errors: error
 };
